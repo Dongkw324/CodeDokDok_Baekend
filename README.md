@@ -56,6 +56,6 @@ python+Django
 1. 내가 쓴 코드 확인하기
 ![내가 작성한 목록 확인](https://user-images.githubusercontent.com/59963677/113145243-2bdc2080-9269-11eb-9d61-90f0e83fdf64.jpg)
 
-<img src="https://user-images.githubusercontent.com/59963677/113145243-2bdc2080-9269-11eb-9d61-90f0e83fdf64.jpg" width="300" height="600">
+<img src="https://user-images.githubusercontent.com/59963677/113145243-2bdc2080-9269-11eb-9d61-90f0e83fdf64.jpg" width="400" height="500">
 
 
