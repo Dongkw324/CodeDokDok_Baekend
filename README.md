@@ -58,3 +58,8 @@ python+Django
 <img src="https://user-images.githubusercontent.com/59963677/113145243-2bdc2080-9269-11eb-9d61-90f0e83fdf64.jpg" width="300" height="500">
 
 
+2. 사이트 검색을 통해 코드 확인하기
+
+
+
+
