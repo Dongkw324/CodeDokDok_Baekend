@@ -60,6 +60,8 @@ python+Django
 
 2. 사이트 검색을 통해 코드 확인하기
 
+<img src="https://user-images.githubusercontent.com/59963677/113146285-701bf080-926a-11eb-937b-16f62e111090.jpg" width="300" height="500">
+
 
 
 
