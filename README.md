@@ -62,6 +62,8 @@ python+Django
 
 <img src="https://user-images.githubusercontent.com/59963677/113146285-701bf080-926a-11eb-937b-16f62e111090.jpg" width="300" height="500">
 
+3. 코드 등록하기
+
 
 
 
