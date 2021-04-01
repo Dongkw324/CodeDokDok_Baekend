@@ -68,6 +68,8 @@ python+Django
 
 4. 코드 공유하기
 
+<img src="https://user-images.githubusercontent.com/59963677/113292676-cacb5000-932f-11eb-9a09-c86de2e5bbbf.jpg" width="300" height="500">
+
 
 
 
